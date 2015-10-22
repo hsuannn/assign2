@@ -21,10 +21,10 @@ void setup () {
   fi = loadImage("img/fighter.png");
   hp = loadImage("img/hp.png");
   tr = loadImage("img/treasure.png");
-  s1 = loadImage("img/start1.png");
-  s2 = loadImage("img/start2.png");
-  e1 = loadImage("img/end1.png");
-  e2 = loadImage("img/end2.png");
+  s1 = loadImage("img/start2.png");
+  s2 = loadImage("img/start1.png");
+  e1 = loadImage("img/end2.png");
+  e2 = loadImage("img/end1.png");
 }
 
 void draw() {
